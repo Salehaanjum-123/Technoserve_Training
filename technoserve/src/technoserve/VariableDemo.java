@@ -5,7 +5,7 @@ public class VariableDemo {
 	void print()
 	{
 		String msg="hello"; //loc var
-		System.out.println(msg);/
+		System.out.println(msg);
 	}
 	static String message="Hello Students";//stat var
 	
