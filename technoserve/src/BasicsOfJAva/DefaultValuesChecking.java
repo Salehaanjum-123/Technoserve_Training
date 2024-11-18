@@ -1,4 +1,4 @@
-package technoserve;
+package BasicsOfJAva;
 
 class Demo
 {

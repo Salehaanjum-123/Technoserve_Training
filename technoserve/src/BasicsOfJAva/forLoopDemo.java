@@ -1,4 +1,4 @@
-package technoserve;
+package BasicsOfJAva;
 
 public class forLoopDemo {
 	public static void main(String[] args) {
